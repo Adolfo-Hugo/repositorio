@@ -36,3 +36,5 @@ Os resultados serão salvos automaticamente em arquivos Excel, com o nome dados_
 Observações
 Certifique-se de ter o Chrome instalado e atualizado, pois o webdriver_manager será utilizado para gerenciar o driver do Chrome automaticamente.
 O script foi desenvolvido para ser executado em uma máquina local com Python instalado.
+
+Adicionei a planilha "clientes_caceal.xlsx" onde é necessário alterar as informações de acordo como está em modelo.
